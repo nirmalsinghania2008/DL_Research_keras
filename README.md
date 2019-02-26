@@ -1,6 +1,6 @@
 # DL_Research_keras
 
-* Keras is an amazing framework for Good API design and Clean and Understandable Implementation of DL Models
+* Keras is an amazing framework for Clean and Understandable Implementation of DL Models
 
 * Some Say "Keras" is not Powerful enough
 
